@@ -1,0 +1,17 @@
+tensorflow
+numpy
+pandas
+dvc
+#notebook
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML #is needed with we want to use .ymal files
+tqdm # Whenever your code is taking time to do its job in that case we can print a progress bar using this.
+ensure==1.0.2 
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+-e .
